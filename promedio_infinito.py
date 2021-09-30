@@ -10,5 +10,3 @@ def promedio_infinito(a: int, b: int)->float:
         contador += 1
 
     return promedio
-
-print(promedio_infinito(-5,4))
