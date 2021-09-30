@@ -7,4 +7,4 @@ def dia(dia: int, mes: int, anio: int)->str:
     semana = ["Lunes", "Martes", "Miercoles", "Jueves", "Viernes", "Sábado", "Domingo"]
     return semana[dia]
 
-print(dia(31,12,2021))
+print(dia(12,20,2007))
