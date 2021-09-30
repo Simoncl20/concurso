@@ -24,9 +24,6 @@ def orden_entrega(D: list)->list:
 
     return retorno
 
-a = [2,3,7,4,2,3]
-
-print(orden_entrega(a))
 
 
 
